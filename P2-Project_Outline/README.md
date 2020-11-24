@@ -7,25 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-As a musician, I find it difficult to find other musicians to play with or seek help from. Where do you find them when you've located to a new community? Who can help with your Music Theory assignment? I would like to develop a social app for musicians to connect and form a solid community.
+A website for users to find local produce suppliers, and for local producers/growers/farmers to share their links and goods. 
 ### Features
-1. User Login - Users can create accounts and log in. Each user will have a profile page.
-2. Post - Users can create, edit, and delete public posts while logged in. Posts will appear within the user's profile. 
-3. Events - While logged in, users can create events such as auditions. Once an event is created, it can be referenced and reached through a post.
-4. Tutoring - While logged in, users can ask music-related questions on a "Tutoring" page through posts. Other users can answer questions through comments on a post.
-5. Friend - Users can "friend" each other, which will allow them to follow that friend's posts on their homepage.
+-Marketplace - facilitate sales.
+-Vendor Rating/Review Option - Let consumers rate their experiences with farmers.
+-Link to Scheduled Events - users can link to upcoming events such as farmers markets.
+-About Me/Profile/Bio - Vendors can link to their personal sites and summarize what they do and what they're offering.
+-Media - Vendors can upload photos/descriptions of their available product.
+-Search - Users can search for vendors by location, item, vendor, product type, event, farm type.
 ### Technologies
 -Java
--Spring Boot
--MySQL
--Hibernate
--Thymeleaf
--CSS
--JavaScript
--IntelliJ
 ### What I'll Have to Learn
-1. How to use JavaScript within IntelliJ (to supplement Java).
-2. How to connect users with other users (aka "friending" on social media)
-3. How to allow users to comment on public posts
+-Google API - Location search/listing?
+-Shopping Cart?
+-RSS Feeds
+-Deploying
+-Complimenting Java with JavaScript (why use Angular WITH Springboot)
+-How to use Java on the front end
 ### Project Tracker
-https://trello.com/b/G1RK1NvE/liftoff-capstone-project
+https://trello.com/b/yCqEiAS2/2020-november-liftoff-megans-group
