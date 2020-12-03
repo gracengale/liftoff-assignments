@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-P3-Project_Planning/Document 31.pdf
+https://github.com/gracengale/liftoff-assignments/blob/3e60cc923bbec8298f1438209c98f14f89b97d66/P3-Project_Planning/wireframes-%20Jessica.pdf
 
-P3-Project_Planning/wireframes- Jessica.pdf
+https://github.com/gracengale/liftoff-assignments/blob/3e60cc923bbec8298f1438209c98f14f89b97d66/P3-Project_Planning/Document%2031.pdf
 
 ### Project Tracker
 
